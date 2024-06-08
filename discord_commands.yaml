@@ -1,0 +1,10 @@
+- name: rank
+  description: Return stats for an epic_id
+  options:
+    - name: epic_id
+      description: The epic_id to return stats for
+      type: 3
+      required: true
+
+- name: goal
+  description: Say What a Save!

@@ -1,0 +1,8 @@
+# Python
+.venv/
+
+#PyCharm
+.idea/
+
+# Secrets
+.env
